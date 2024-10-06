@@ -32,4 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asteriskayush007&show_icons=true&locale=en" alt="asteriskayush007" /></p>
 
+[![An image of @asteriskayush007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asteriskayush007)](https://holopin.io/@asteriskayush007)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asteriskayush007&" alt="asteriskayush007" /></p>
