@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/singhyadav58685" target="blank"><img src="https://img.shields.io/twitter/follow/singhyadav58685?logo=twitter&style=for-the-badge" alt="singhyadav58685" /></a> </p>
 
-- 🔭 I’m currently working on **EduBuddy Project**
+- 🔭 I’m currently working on **DevRhylme Foundation Project**
 
 - 🌱 I’m currently learning **MERN, Data Science , Gen Ai, Supervise and Unsupervised learning**
 
